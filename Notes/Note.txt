@@ -1,0 +1,11 @@
+Ideas taken from previous games:
+  -Simplified code such as creating a function to detect enemy collision instead of seperately detecting collision for enemies.
+
+Intended features:
+  -Smooth movement
+  -Smooth jumping and gravity
+  -Ability to replay
+  -How to play
+  -8 levels
+  -Can play as Mario, Luigi, or Yoshi and maybe Wario.
+  -Smooth movement of enemies. 
